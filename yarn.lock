@@ -3479,9 +3479,9 @@ react-native@0.49.5:
     xmldoc "^0.4.0"
     yargs "^6.4.0"
 
-"react-navigation@git+https://github.com/exKAZUu/react-navigation.git#374cf3c4fcb3b541e7faab6d569aa52a199e7a69":
+"react-navigation@git+https://github.com/exKAZUu/react-navigation.git#142f644a7a95dd5423f72c4e668da4c78e3a3add":
   version "1.0.0-beta.19"
-  resolved "git+https://github.com/exKAZUu/react-navigation.git#374cf3c4fcb3b541e7faab6d569aa52a199e7a69"
+  resolved "git+https://github.com/exKAZUu/react-navigation.git#142f644a7a95dd5423f72c4e668da4c78e3a3add"
   dependencies:
     babel-plugin-transform-define "^1.3.0"
     clamp "^1.0.1"
